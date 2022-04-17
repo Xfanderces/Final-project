@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Russo+One&display=swap');
+p {
+    color:rgb(255, 255, 255);
+    position: absolute;
+    font-size: 45px;
+    top: 88px;
+    left: 777px;
+    font-family: Russo One;
+}
+
+.main {
+    color: greenyellow;
+    font-size: 30px;
+    position: absolute;
+   top: 470px;
+   left: 622px; 
+   font-family: "Press Start 2P";
+}
+
+.lll {
+    color: coral;
+    font-size: 40px;
+    position: absolute;
+   top: 50px;
+   left: 950px; 
+   font-family: "Press Start 2P";
+}

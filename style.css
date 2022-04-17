@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Gabriela&family=Lobster&family=Pacifico&family=Rubik+Glitch&family=Rubik+Wet+Paint&display=swap');
+
+header {
+  background: rgb(131,58,180);
+  background: linear-gradient(139deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 43%, rgba(252,176,69,1) 100%);
+    padding:10px;
+    height: 99px;
+  }
+
+  footer {
+    background: rgb(131,58,180);
+    background: linear-gradient(139deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 43%, rgba(252,176,69,1) 100%);
+      padding:10px;
+      height: 222px;
+    }
+
+  main {
+    padding:10px;
+    background: rgb(42,36,46);
+background: linear-gradient(143deg, rgba(42,36,46,1) 4%, rgba(255,255,255,1) 46%, rgba(41,35,27,1) 92%);
+  }
+  .post{
+    background-color:white;
+    padding:20px;
+    border-radius:20px;
+    margin-bottom:10px;
+    display:flex;
+  }
+  .post img {
+    margin:20px;
+  }
+  
+  #menu {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  ul {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    list-style: none;
+    left: 35%;
+  }
+  
+  li {
+    position: relative;
+    display: block;
+    float: left;
+    width: auto;
+    height: auto;
+  }
+  
+  #glav {
+    display: block;
+    padding: 10px;
+    font-size: 14pt;
+    font-weight: bold;
+    text-decoration: none;
+    color: lightgreen;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    background-color: Indigo;
+    border: 2px solid rosybrown;
+  }
+  
+  #glav:hover {
+    background-color: MediumSlateBlue;
+    border-radius: 0 15px;
+    color: yellow;
+    border: 3px dotted magenta;
+  }
+
+  .n {
+    color: blue;
+    font-family: Comfortaa;
+    font-size: 25px;
+  }
+
+  .nemo {
+    color: orangered;
+    font-family: Gabriela;
+    font-size: 20px;
+  }
+
+  .e {
+    color: green;
+    font-family: Rubik Wet Paint;
+    font-size: 25px;
+  }
+
+  .m {
+    color: brown;
+    font-family: Lobster;
+    font-size: 27px;
+  }
+
+  .mat {
+    color: MediumSpringGreen;
+    font-family: Rubik Glitch;
+    font-size: 30px;
+  }
+
+  .tam {
+    color: Cyan;
+    font-family: Pacifico;
+    font-size: 30px;
+  }
